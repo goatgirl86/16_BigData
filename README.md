@@ -10,7 +10,7 @@
 ## Project Overview
 ### Purpose
 
-The purpose of this challenge was to explore AWS RDS, Google Colab, and PySpark to help Jennifer from “SellBy” perform the ETL process to extract, transform and load an Amazon Vine Review data into pgAdmin.  We were also tasked with determining if there is any bias toward favorable reviews from Vine members in your dataset.
+The purpose of this challenge was to explore AWS RDS, Google Colab, and PySpark by helping Jennifer from “SellBy” perform the ETL process to extract, transform and load an Amazon Vine Review data into pgAdmin.  We were also tasked with determining if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ### Data Analyzed
 -	Amazon Vine Review data for Furniture: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Furniture_v1_00.tsv.gz
@@ -21,6 +21,7 @@ The deliverables for this assignment were:
 -	Deliverable 2: Determine Bias of Vine Reviews 
 
 ## Results
+
 For this analysis, I used both Pandas and PySpark to determine number of total of *helpful* reviews, number of *helpful* 5-star reviews, and percentage of *helpful* 5-star reviews characterized by their Vine subsciption status: paid or nonpaid. 
  
 -	Total Reviews: 18,155; Vine Reviews: 136; Non-Vine Reviews: 18,019
