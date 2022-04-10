@@ -17,8 +17,8 @@ The purpose of this challenge was to explore AWS RDS, Google Colab, and PySpark 
 
 ### Deliverables 
 The deliverables for this assignment were:
--	Deliverable 1: Perform ETL on Amazon Product Reviews 
--	Deliverable 2: Determine Bias of Vine Reviews 
+-	**Deliverable 1:** Perform ETL on Amazon Product Reviews 
+-	**Deliverable 2:** Determine Bias of Vine Reviews 
 
 ## Results
 
@@ -42,7 +42,7 @@ Screenshot 2: Total Reviews (with votes >= 20)
  ![image](https://user-images.githubusercontent.com/92705556/162636047-ecff40c9-3e71-4dba-a832-539bd3a12692.png)
 
 
-Screenshot 3: Helpful Reviews (helpful votes/total votes greater than 50%)
+Screenshot 3: Helpful Reviews (helpful votes/total votes >= 50%)
 
  ![image](https://user-images.githubusercontent.com/92705556/162636051-d403052a-da42-4ae3-b651-446e259f9770.png)
  
