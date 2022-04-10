@@ -88,7 +88,7 @@ Calculation Screenshots
  ![image](https://user-images.githubusercontent.com/92705556/162636089-567322fd-4471-4b9f-b882-c7227f438dc5.png)
 
  
-## Summary Conclusions on Positivity Bias
+## Summary Conclusions
 
 Vine Subscribers do tend to have a higher percentage of 5-star reviews than non-Vine reviews (54% vs 47%).  However, because there are only 136 paid-Vine reviews out of 18,155 helpful reviews, it suggests that not many Vine reviewers are providing high-ranking helpful reviews. 
 
