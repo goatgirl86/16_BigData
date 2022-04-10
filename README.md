@@ -24,9 +24,9 @@ The deliverables for this assignment were:
 
 For this analysis, I used both Pandas and PySpark to determine number of total of *helpful* reviews, number of *helpful* 5-star reviews, and percentage of *helpful* 5-star reviews characterized by their Vine subsciption status: paid or nonpaid. 
  
--	Total Reviews: 18,155; Vine Reviews: 136; Non-Vine Reviews: 18,019
--	Total 5-star Reviews: 8,556; Vine 5-Star Reviews: 74, Non-Vine 5-Star Reviews: 8,482
--	% 5-star for Total Reviews: 47.13%; % 5-star for Vine Reviews: 54.41%, % 5-star for Non-Vine Reviews: 47.07%
+-	**Total Reviews:** 18,155; **Vine Reviews:** 136; **Non-Vine Reviews:** 18,019
+-	**Total 5-star Reviews:** 8,556; **Vine 5-Star Reviews:** 74, **Non-Vine 5-Star Reviews:** 8,482
+-	**% 5-star for Total Reviews:** 47.13%; **% 5-star for Vine Reviews:** 54.41%, **% 5-star for Non-Vine Reviews:** 47.07%
 
 ### Code Snippets from Pandas Analysis
 
@@ -58,12 +58,13 @@ Screenshot 5: NonPaid Helpful Reviews (Not Vine Subscribers)
 
 
 Calculation Screenshots
+
  ![image](https://user-images.githubusercontent.com/92705556/162636078-9a3df07d-5104-48df-9278-fd262c6dc79f.png)
  ![image](https://user-images.githubusercontent.com/92705556/162636089-567322fd-4471-4b9f-b882-c7227f438dc5.png)
 
  
 ## Summary Conclusions on Positivity Bias
 
-Vine Subscribers do tend to have a higher percentage of 5-star reviews than non-Vine reviews (54% vs 47%).  However, because there are only 136 paid-Vine reviews out of 18,155 helpful reviews, it suggests that not many Vine reviewers are providing helpful reviews. 
+Vine Subscribers do tend to have a higher percentage of 5-star reviews than non-Vine reviews (54% vs 47%).  However, because there are only 136 paid-Vine reviews out of 18,155 helpful reviews, it suggests that not many Vine reviewers are providing high-ranking helpful reviews. 
 
-To better understand the impact of Vine reviews compared to non-Vine reviews, I suggest that SellBy runs an additional analysis of all Vine-Reviews vs all Non-Vine Reviews from the entire 792,113 row dataset.  By looking at this info, SellBy could determine if the Vine reviews are helpful but not ranking high in the “total votes” if there are not getting enough Vine reviews to justify the cost of paying for the Amazon service.
+To better understand the impact of Vine reviews compared to non-Vine reviews, I suggest that "SellBy" runs an additional analysis of all Vine-Reviews vs all Non-Vine Reviews from the entire dataset (792,113 row).  By looking at this info, SellBy could determine if the Vine reviews are helpful but not ranking high in the “total votes” or if there are not enough Vine reviews to justify the cost of paying for the Amazon service.
