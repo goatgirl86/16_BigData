@@ -53,6 +53,8 @@ For this analysis, I used both Pandas and PySpark to determine number of total o
 
 ### Code Snippets for D2 from Pandas Analysis
 
+Summary Dataframe
+
 ![image](https://user-images.githubusercontent.com/92705556/162636031-74dc2653-d300-4200-a20f-7040d6ac1be2.png)
 
 Screenshot 1: Initial Vine DataFrame for Furniture Reviews
