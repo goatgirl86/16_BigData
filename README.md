@@ -2,10 +2,10 @@
 
 ## Relevant Folders and/or Files
 -	Folder - Challenge
-  -	Amazon_Reviews_ETL.ipynb
-  -	Vine_Analysis_Colab.ipynb
-  -	Vine_Analysis_pandas.ipynb
-  -	challenge_schema.sql
+    -	Amazon_Reviews_ETL.ipynb
+    -	Vine_Analysis_Colab.ipynb
+    -	Vine_Analysis_pandas.ipynb
+    -	challenge_schema.sql
 
 ## Project Overview
 ### Purpose
