@@ -22,13 +22,36 @@ The deliverables for this assignment were:
 
 ## Results
 
+### Deliverable 1
+
+Screenshot 1: Screenshot of Initial Data Table
+
+![image](https://user-images.githubusercontent.com/92705556/162636641-1fff7b7f-0532-41f1-af63-19bd333e6a85.png)
+
+
+Screenshot 2: Vine table made from initial data.
+
+![image](https://user-images.githubusercontent.com/92705556/162636670-c3676468-7bc7-4fa7-9fa7-862911acf94b.png)
+
+
+Screenshot 3: Code used to write data to PGAdmin tables
+
+![image](https://user-images.githubusercontent.com/92705556/162636723-e0c30730-6d4c-4f40-b587-0415344a6ad1.png)
+
+
+Screenshot 4: pgAdmin Tables
+
+![image](https://user-images.githubusercontent.com/92705556/162636558-33f374dd-c31d-457e-8b60-7076d38595a4.png)
+
+### Deliverable 2
+
 For this analysis, I used both Pandas and PySpark to determine number of total of *helpful* reviews, number of *helpful* 5-star reviews, and percentage of *helpful* 5-star reviews characterized by their Vine subsciption status: paid or nonpaid. 
  
 -	**Total Reviews:** 18,155; **Vine Reviews:** 136; **Non-Vine Reviews:** 18,019
 -	**Total 5-star Reviews:** 8,556; **Vine 5-Star Reviews:** 74, **Non-Vine 5-Star Reviews:** 8,482
 -	**% 5-star for Total Reviews:** 47.13%; **% 5-star for Vine Reviews:** 54.41%, **% 5-star for Non-Vine Reviews:** 47.07%
 
-### Code Snippets from Pandas Analysis
+### Code Snippets for D2 from Pandas Analysis
 
 ![image](https://user-images.githubusercontent.com/92705556/162636031-74dc2653-d300-4200-a20f-7040d6ac1be2.png)
 
